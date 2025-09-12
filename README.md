@@ -1,2 +1,4 @@
-# CS310
-CS310 Programming with C++
+# CS 310 C++
+## Contributors
+- Robert Flowers
+- Charles Edge
